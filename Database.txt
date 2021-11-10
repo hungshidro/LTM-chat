@@ -18,8 +18,6 @@ create table user(
 create table room(
 	id int(5) not null auto_increment,
     roomName text not null,
-    lastMessage text,
-    lastDate timestamp,
     primary key(id)
 );
 

@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dao.MessRoom;
+package Client;
 
 /**
  *
  * @author asus
  */
-public class MessRoomDAO {
+public class Client {
     
 }

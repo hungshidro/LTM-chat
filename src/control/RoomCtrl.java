@@ -9,6 +9,6 @@ package control;
  *
  * @author asus
  */
-public class Room {
+public class RoomCtrl {
     
 }

@@ -16,6 +16,8 @@ public class loginForm extends javax.swing.JFrame {
      */
     public loginForm() {
         initComponents();
+        jTextField1.setHorizontalAlignment(jTextField1.RIGHT);
+        jTextField1.setText("jgjhdg");
     }
 
     /**

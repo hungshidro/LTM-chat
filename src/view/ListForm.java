@@ -102,6 +102,7 @@ public class ListForm extends javax.swing.JFrame {
         // TODO add your handling code here:
         friendListForm p=new friendListForm();
         jTabbedPane1.add(p,"danh sách bạn");
+        jTabbedPane1.add(new RoomListForm(),"List room");
     }//GEN-LAST:event_jTabbedPane1AncestorAdded
 
     /**

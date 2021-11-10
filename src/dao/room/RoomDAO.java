@@ -6,7 +6,7 @@
 package dao.room;
 
 import Common.Common;
-import control.Room;
+import control.RoomCtrl;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
